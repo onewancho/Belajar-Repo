@@ -1,4 +1,7 @@
 git init : inisialisasi folder github
-npm init : menjelaskan project yang kita pakai
+npm init -y : menjelaskan project yang kita pakai
 remote dengan git
-git add . : prepare semua file yang terupdate
+git add . : prepare semua file yang terupdate untuk diupload
+git commit -m : file apa yang mau diupdate
+git push origin-u origin main : upload
+git checkout -b (Nama branch Baru)
