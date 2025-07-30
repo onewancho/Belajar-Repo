@@ -1,0 +1,4 @@
+git init : inisialisasi folder github
+npm init : menjelaskan project yang kita pakai
+remote dengan git
+git add . : prepare semua file yang terupdate
